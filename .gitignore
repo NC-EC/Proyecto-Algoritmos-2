@@ -1,0 +1,9 @@
+# Entorno de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Grafos descargados de OpenStreetMap (se regeneran)
+cache/*
+!cache/.gitkeep
